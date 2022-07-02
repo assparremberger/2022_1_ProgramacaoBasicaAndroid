@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppLayout</string>
+
+    <string name="txtNome">Name: </string>
+    <string name="txtNomeHint">Enter your name: </string>
+    <string name="txtFone">Phone: </string>
+    <string name="txtFoneHint">Enter your phone: </string>
+
+    <string name="txtSexo">Gender: </string>
+
+    <string name="estadoZero">You must select a state...</string>
+
+    <string-array name="arrayEstados">
+        <item>Select the State...</item>
+        <item>PR</item>
+        <item>RS</item>
+        <item>SC</item>
+    </string-array>
+
+
+
+
+</resources>

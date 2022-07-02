@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppLayout</string>
+
+    <string name="txtNome">Nome: </string>
+    <string name="txtNomeHint">Digite seu nome: </string>
+    <string name="txtFone">Telefone: </string>
+    <string name="txtFoneHint">Digite seu telefone: </string>
+
+    <string name="txtSexo">Sexo: </string>
+
+    <string name="estadoZero">Você deve selecionar um estado...</string>
+
+    <string-array name="arrayEstados">
+        <item>Selecione o Estado...</item>
+        <item>PR</item>
+        <item>RS</item>
+        <item>SC</item>
+    </string-array>
+
+</resources>
